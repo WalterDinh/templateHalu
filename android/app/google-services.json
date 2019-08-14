@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "285537217518",
+    "firebase_url": "https://grow-app-e272b.firebaseio.com",
+    "project_id": "grow-app-e272b",
+    "storage_bucket": "grow-app-e272b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285537217518:android:d64b24fe43493af3",
+        "android_client_info": {
+          "package_name": "com.fulllearner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285537217518-u6oh42l0srq52b9tv1h81afs5citeman.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKE_ZkxSl1fNy3vCWA_aUtFksd8WalOxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285537217518-u6oh42l0srq52b9tv1h81afs5citeman.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285537217518-n9rkufijdfrdl3g5a9dgdt71elcl44si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arillance.Fulllearner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

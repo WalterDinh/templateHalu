@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fulllearner</string>
+    <string name="default_notification_channel_id">chanelId</string>
+    <string name="facebook_app_id">2126482081015825</string>
+
+</resources>
