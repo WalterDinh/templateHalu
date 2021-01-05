@@ -13,7 +13,7 @@
     "@expo/react-native-action-sheet": "^2.1.0",
     "@ptomasroos/react-native-multi-slider": "^1.0.0",
     "apisauce": "^1.0.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "expo-jwt": "^1.1.2",
     "firebase": "^6.1.1",
     "js-react-native-image-zoom-viewer": "^2.3.1",
